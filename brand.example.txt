@@ -1,0 +1,37 @@
+# ============================================================
+#  YOUR BRAND PROFILE  —  copy this file to  data/brand.txt
+# ============================================================
+# The agent reads this before every piece of analysis it does.
+# The more specific you are, the better its advice.
+# Lines starting with # are notes to you and are ignored.
+#
+# Replace EVERYTHING below with your own brand.
+# ------------------------------------------------------------
+
+Brand: <Your Brand Name> (<yourwebsite.com>) — <one line: what you sell and the look/feel>.
+
+VISION: <what your brand stands for, in a sentence or two. This is the lens the agent
+uses for every recommendation — ideas that don't serve this get filtered out.>
+
+Visual identity: <colours, typography, packaging, photography style>
+
+Hero product: <your main product, what makes it different, how it's priced vs competitors>
+
+Channels: <e.g. Instagram (@yourhandle) primary, TikTok, email via Klaviyo,
+store on Shopify, Meta ads>
+
+Audience: <who buys from you>
+
+What works so far: <any content or campaigns that have performed well>
+
+# ------------------------------------------------------------
+# EXAMPLE of a filled-in profile (a jewelry/streetwear brand):
+#
+# Brand: Altara (altara.st) — minimal, dark-aesthetic streetwear + sculptural jewelry.
+# VISION: bring martial arts into streetwear — the discipline and philosophy of
+# martial arts expressed as wearable design.
+# Visual identity: near-black backgrounds, steel accents, moody low-key product photography.
+# Hero product: Formless Chain — sculptural stainless steel pendant, interchangeable
+# chain, custom box. Positioned premium vs competitors.
+# Channels: Instagram primary, Klaviyo email/SMS, Shopify, Meta ads.
+# ============================================================

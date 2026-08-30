@@ -1,0 +1,18 @@
+# Secrets — never commit these
+.env
+data/tokens.json
+
+# Personal data & generated output
+data/reports/
+data/weekly/
+data/debriefs/
+data/video_ideas/
+data/site_backups/
+data/klaviyo_history.json
+
+# Junk
+__pycache__/
+*.pyc
+gui_static/index_v1.html.bak
+
+# agent definitions ARE tracked - only generated data is ignored
